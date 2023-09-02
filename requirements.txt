@@ -1,0 +1,5 @@
+pandas
+xlrd
+matplotlib
+seaborn
+sqlite3
