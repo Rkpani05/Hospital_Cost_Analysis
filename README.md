@@ -10,7 +10,7 @@ This project provides an analysis of hospital costs based on different service c
 ## Installation
   1. Clone the repository:
 
-```git clone <repository_url>```
+```git clone https://github.com/Rkpani05/Hospital_Cost_Analysis.git ```
 
   2. Navigate to the project directory:
 
